@@ -23,7 +23,7 @@ end
 
 def square_root (num)
 square_root= num.sqrt
-return num
+return square_root
 end
 
 
