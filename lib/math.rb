@@ -21,8 +21,9 @@ def modulo(num1, num2)
 modulo= num1 % num2
 end
 
-def math.sqrt(num)
-square_root= sqrt(num)
+def square_root (num)
+square_root= num
+puts num
 end
 
 
